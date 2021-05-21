@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aubergine_Solutions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NMG_Technology" vcs="Git" />
   </component>
 </project>
